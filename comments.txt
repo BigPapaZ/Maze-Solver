@@ -1,0 +1,6 @@
+Error: The student's path does not start with the start location.
+Error: The student's path does not end with the goal location.
+
+Students return the reverse path from goal location to start location.
+
+Numerous areas in code where it could be cleaned up/simplified
